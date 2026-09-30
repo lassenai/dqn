@@ -1,8 +1,8 @@
 export const ko = {
-  title: '알카로이드 강화학습', subtitle: 'DQN 학습과 의사결정 시각화', browser: '브라우저에서 직접 학습',
+  title: '알카노이드 강화학습', subtitle: 'DQN 학습과 의사결정 시각화', browser: '브라우저에서 직접 학습',
   train: 'AI 학습', random: '무작위 AI', human: '직접 플레이', evaluate: '실력 평가',
   modeTrain: '경험을 모으고, 스스로 학습합니다.', modeRandom: '무작위 행동을 관찰합니다. 두뇌는 바뀌지 않습니다.', modeHuman: '← → 키 또는 아래 버튼으로 조작하세요. 게임판을 드래그할 수도 있습니다.', modeEvaluate: '동일한 시드 10개로 AI와 무작위 AI를 비교합니다. 학습은 멈춥니다.',
-  score: '점수', lives: '목숨', remaining: '남은 벽돌', game: '알카로이드 게임판', start: '학습 시작', startOther: '시작', pause: '일시정지', resume: '계속하기', oneStep: '한 걸음', speed: '속도',
+  score: '점수', lives: '목숨', remaining: '남은 벽돌', game: '알카노이드 게임판', start: '학습 시작', startOther: '시작', pause: '일시정지', resume: '계속하기', oneStep: '한 걸음', speed: '속도',
   ready: '준비', running: '실행 중', paused: '일시정지', initializing: '두뇌 준비 중',
   gameHint: '벽돌 +1 · 목숨 상실 −1 · 공은 자동 발사', speedHint: '배속은 목표치입니다. 화면을 건너뛰어도 모든 경험을 학습합니다.',
   gameEnded: '게임 종료', cleared: '모든 벽돌을 깼습니다', restart: '다시 시작', left: '왼쪽', right: '오른쪽', stay: '가만히',

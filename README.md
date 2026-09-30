@@ -18,7 +18,7 @@ The website becomes available after GitHub Pages is enabled and deployment compl
 - Download/import `brain.json` to transfer a model between computers and phones.
 - No application backend, Python server, account, API key, or runtime CDN required for visitors.
 
-The Korean product name is **알카로이드 강화학습**, under the **L@SSEN AI** brand.
+The Korean product name is **알카노이드 강화학습**, under the **L@SSEN AI** brand.
 
 ## Open the app through GitHub Pages
 
